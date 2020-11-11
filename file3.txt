@@ -1,1 +1,2 @@
 This is first commit for file3.txt
+Change #1
